@@ -1,0 +1,15 @@
+frmMain = 33, 156, 767, 635, Z, 55, 70, 743, 617, C
+modAKRip32 = 44, 44, 653, 566, C
+modAspi32 = 198, 198, 807, 720, C
+modScsiDefs = 0, 0, 0, 0, C
+SmartEdge = 0, 0, 0, 0, C
+frmSettings = 66, 66, 788, 620, C, 137, 202, 746, 699, C
+modINI = 0, 0, 0, 0, C
+mdlUtil = 135, 133, 739, 652, C
+frmEncoderSettings = 221, -10, 830, 512, C, 11, 53, 620, 575, C
+frmAbout = 152, 368, 761, 896, C, 135, 42, 744, 447, C
+modShell = 132, 132, 737, 654, C
+frmWizard = 113, 219, 722, 741, C, 79, 162, 688, 606, C
+Hyperlink = 11, 83, 851, 689, C, 110, 110, 719, 632, C
+ElapTm = 66, 66, 675, 588, C
+clsMP3 = 0, 0, 0, 0, C
